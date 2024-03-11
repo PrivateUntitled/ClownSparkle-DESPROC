@@ -1,0 +1,174 @@
+
+spine.png
+size: 639,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Copy of  pupilR
+  rotate: false
+  xy: 563, 30
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+arm B
+  rotate: true
+  xy: 403, 4
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+arm F
+  rotate: false
+  xy: 423, 104
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 10
+  size: 182, 215
+  orig: 182, 215
+  offset: 0, 0
+  index: -1
+bowtie
+  rotate: true
+  xy: 600, 140
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 423, 53
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 469, 110
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+eyeball L
+  rotate: false
+  xy: 597, 47
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eyeball R
+  rotate: true
+  xy: 270, 2
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+eyelid bot B
+  rotate: true
+  xy: 537, 55
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+eyelid bot F
+  rotate: true
+  xy: 534, 13
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+eyelid up B
+  rotate: false
+  xy: 563, 59
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+eyelid up F
+  rotate: true
+  xy: 510, 10
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+feet B
+  rotate: false
+  xy: 470, 55
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+feet F
+  rotate: false
+  xy: 504, 55
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+fin
+  rotate: true
+  xy: 525, 117
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+lip lower
+  rotate: true
+  xy: 600, 79
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+lip upper
+  rotate: false
+  xy: 537, 85
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 349, 3
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+pupilL
+  rotate: false
+  xy: 562, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 219, 52
+  size: 140, 202
+  orig: 140, 202
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 314, 2
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+throat
+  rotate: false
+  xy: 219, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tounge
+  rotate: true
+  xy: 484, 9
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
