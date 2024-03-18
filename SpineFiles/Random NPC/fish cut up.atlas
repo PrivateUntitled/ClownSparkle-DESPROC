@@ -1,0 +1,475 @@
+
+fish cut up.png
+size: 584,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anthias back/arm F backv
+  rotate: true
+  xy: 217, 71
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+anthias back/body
+  rotate: false
+  xy: 2, 612
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+anthias back/fin backv
+  rotate: false
+  xy: 513, 882
+  size: 69, 158
+  orig: 69, 158
+  offset: 0, 0
+  index: -1
+anthias back/head backv
+  rotate: false
+  xy: 332, 918
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+anthias back/leg B backv
+  rotate: true
+  xy: 502, 499
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+anthias back/leg F Backv
+  rotate: false
+  xy: 324, 143
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+anthias/Eyelid B
+  rotate: true
+  xy: 489, 68
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+congo tetra/Eyelid B
+  rotate: true
+  xy: 489, 68
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+anthias/arm B
+  rotate: true
+  xy: 373, 126
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+anthias/arm F
+  rotate: true
+  xy: 146, 2
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+anthias/body
+  rotate: false
+  xy: 2, 827
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+anthias/eye skin
+  rotate: true
+  xy: 495, 651
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+anthias/eyeball B
+  rotate: false
+  xy: 373, 15
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+congo tetra/eyeball B
+  rotate: false
+  xy: 373, 15
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+anthias/eyeball F
+  rotate: false
+  xy: 351, 649
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+congo tetra/eyeball F
+  rotate: false
+  xy: 351, 649
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+anthias/eyelid F
+  rotate: false
+  xy: 292, 646
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+congo tetra/eyelid F
+  rotate: false
+  xy: 292, 646
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+anthias/fin
+  rotate: true
+  xy: 2, 2
+  size: 63, 142
+  orig: 63, 142
+  offset: 0, 0
+  index: -1
+anthias/head
+  rotate: true
+  xy: 167, 646
+  size: 179, 123
+  orig: 179, 123
+  offset: 0, 0
+  index: -1
+anthias/leg B
+  rotate: true
+  xy: 476, 833
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+anthias/leg F
+  rotate: true
+  xy: 437, 499
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+anthias/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+anthias back/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+clownfish back/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+clownfish/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+congo tetra back/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+congo tetra/pupil B
+  rotate: false
+  xy: 544, 795
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+anthias/pupil F
+  rotate: false
+  xy: 543, 836
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+clownfish/pupil F
+  rotate: false
+  xy: 543, 836
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+congo tetra/pupil F
+  rotate: false
+  xy: 543, 836
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+anthias/tail
+  rotate: true
+  xy: 473, 720
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+anthias/tailfin
+  rotate: false
+  xy: 348, 417
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+clownfish back/arm F backv
+  rotate: true
+  xy: 507, 429
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+clownfish back/body
+  rotate: true
+  xy: 2, 232
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+clownfish back/head backv
+  rotate: false
+  xy: 167, 397
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+clownfish back/leg B backv
+  rotate: true
+  xy: 304, 6
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+clownfish back/leg F Backv
+  rotate: false
+  xy: 519, 222
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+clownfish back/tail
+  rotate: true
+  xy: 437, 544
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+clownfish/arm B
+  rotate: false
+  xy: 504, 356
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+clownfish/arm F
+  rotate: true
+  xy: 431, 427
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+clownfish/body
+  rotate: false
+  xy: 2, 397
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+clownfish/eye skin
+  rotate: true
+  xy: 449, 205
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+clownfish/fin
+  rotate: true
+  xy: 217, 210
+  size: 61, 157
+  orig: 61, 157
+  offset: 0, 0
+  index: -1
+clownfish back/fin backv
+  rotate: true
+  xy: 217, 210
+  size: 61, 157
+  orig: 61, 157
+  offset: 0, 0
+  index: -1
+clownfish/head
+  rotate: false
+  xy: 167, 521
+  size: 179, 123
+  orig: 179, 123
+  offset: 0, 0
+  index: -1
+clownfish/leg B
+  rotate: false
+  xy: 505, 289
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+clownfish/leg F
+  rotate: false
+  xy: 422, 4
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+clownfish/tail
+  rotate: false
+  xy: 217, 139
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+clownfish/tailfin
+  rotate: false
+  xy: 376, 194
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+congo tetra back/arm F backv
+  rotate: false
+  xy: 461, 118
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+congo tetra back/body
+  rotate: false
+  xy: 167, 827
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+congo tetra back/fin backv
+  rotate: false
+  xy: 348, 499
+  size: 87, 145
+  orig: 87, 145
+  offset: 0, 0
+  index: -1
+congo tetra back/head backv
+  rotate: false
+  xy: 217, 273
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+congo tetra back/leg B backv
+  rotate: true
+  xy: 467, 23
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+congo tetra back/leg F Backv
+  rotate: true
+  xy: 422, 69
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+congo tetra back/tail
+  rotate: false
+  xy: 398, 274
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+congo tetra/arm B
+  rotate: false
+  xy: 305, 51
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+congo tetra/arm F
+  rotate: true
+  xy: 406, 651
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+congo tetra/body
+  rotate: true
+  xy: 2, 67
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+congo tetra/eye skin
+  rotate: true
+  xy: 234, 2
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+congo tetra/fin
+  rotate: true
+  xy: 332, 827
+  size: 89, 142
+  orig: 89, 142
+  offset: 0, 0
+  index: -1
+congo tetra/head
+  rotate: false
+  xy: 292, 702
+  size: 179, 123
+  orig: 179, 123
+  offset: 0, 0
+  index: -1
+congo tetra/leg B
+  rotate: false
+  xy: 373, 59
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+congo tetra/leg F
+  rotate: false
+  xy: 525, 157
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+congo tetra/tail
+  rotate: true
+  xy: 508, 544
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+congo tetra/tailfin
+  rotate: true
+  xy: 398, 345
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1

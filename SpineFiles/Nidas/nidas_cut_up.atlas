@@ -1,0 +1,167 @@
+
+nidas_cut_up.png
+size: 1994,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back Arm
+  rotate: true
+  xy: 796, 32
+  size: 160, 372
+  orig: 160, 372
+  offset: 0, 0
+  index: -1
+Back Fluff
+  rotate: false
+  xy: 1445, 33
+  size: 306, 202
+  orig: 306, 202
+  offset: 0, 0
+  index: -1
+Back Hat
+  rotate: true
+  xy: 1020, 228
+  size: 526, 274
+  orig: 526, 274
+  offset: 0, 0
+  index: -1
+BackFrills
+  rotate: false
+  xy: 211, 5
+  size: 226, 105
+  orig: 226, 105
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1296, 237
+  size: 237, 517
+  orig: 237, 517
+  offset: 0, 0
+  index: -1
+Eyeball B
+  rotate: false
+  xy: 1753, 227
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+EyeballA
+  rotate: false
+  xy: 741, 150
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1170, 2
+  size: 224, 273
+  orig: 224, 273
+  offset: 0, 0
+  index: -1
+FluffB
+  rotate: false
+  xy: 1660, 271
+  size: 332, 483
+  orig: 332, 483
+  offset: 0, 0
+  index: -1
+FluffF
+  rotate: false
+  xy: 741, 194
+  size: 277, 560
+  orig: 277, 560
+  offset: 0, 0
+  index: -1
+FrontArm
+  rotate: true
+  xy: 439, 24
+  size: 120, 350
+  orig: 120, 350
+  offset: 0, 0
+  index: -1
+HatF
+  rotate: true
+  xy: 388, 146
+  size: 608, 351
+  orig: 608, 351
+  offset: 0, 0
+  index: -1
+LPupil B
+  rotate: false
+  xy: 1807, 229
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+LPupilA
+  rotate: false
+  xy: 1850, 229
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+LowerEyelid B
+  rotate: true
+  xy: 120, 30
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+LowerEyelidA
+  rotate: true
+  xy: 163, 31
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 120, 5
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+PinkFrillsB
+  rotate: false
+  xy: 171, 112
+  size: 215, 642
+  orig: 215, 642
+  offset: 0, 0
+  index: -1
+PinkFrillsF
+  rotate: false
+  xy: 2, 98
+  size: 167, 656
+  orig: 167, 656
+  offset: 0, 0
+  index: -1
+Tendril 1
+  rotate: false
+  xy: 1535, 248
+  size: 61, 506
+  orig: 61, 506
+  offset: 0, 0
+  index: -1
+Tendril 2
+  rotate: false
+  xy: 1598, 248
+  size: 60, 506
+  orig: 60, 506
+  offset: 0, 0
+  index: -1
+UpperEyelid B
+  rotate: true
+  xy: 2, 8
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+UpperEyelidA
+  rotate: true
+  xy: 58, 10
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
