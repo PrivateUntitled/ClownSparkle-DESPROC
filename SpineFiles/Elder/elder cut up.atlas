@@ -1,0 +1,433 @@
+
+elder cut up.png
+size: 1209,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default elder/Eye B
+  rotate: false
+  xy: 2, 8
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+default elder/Eye B 2
+  rotate: true
+  xy: 1158, 48
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+default elder/Eye F
+  rotate: false
+  xy: 1115, 42
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+default elder/Eye F 2
+  rotate: false
+  xy: 827, 156
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+default elder/antler B
+  rotate: false
+  xy: 1000, 590
+  size: 100, 183
+  orig: 100, 183
+  offset: 0, 0
+  index: -1
+default elder/antler F1
+  rotate: true
+  xy: 950, 485
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+default elder/antler F2
+  rotate: true
+  xy: 611, 2
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+default elder/arm B
+  rotate: false
+  xy: 1084, 813
+  size: 121, 218
+  orig: 121, 218
+  offset: 0, 0
+  index: -1
+default elder/arm F
+  rotate: true
+  xy: 728, 364
+  size: 114, 211
+  orig: 114, 211
+  offset: 0, 0
+  index: -1
+default elder/body
+  rotate: false
+  xy: 2, 288
+  size: 256, 373
+  orig: 256, 373
+  offset: 0, 0
+  index: -1
+default elder/cape B
+  rotate: false
+  xy: 877, 218
+  size: 78, 144
+  orig: 78, 144
+  offset: 0, 0
+  index: -1
+default elder/cape F
+  rotate: false
+  xy: 2, 89
+  size: 223, 197
+  orig: 223, 197
+  offset: 0, 0
+  index: -1
+default elder/cape string
+  rotate: false
+  xy: 260, 597
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+default elder/cape under
+  rotate: false
+  xy: 2, 663
+  size: 330, 368
+  orig: 330, 368
+  offset: 0, 0
+  index: -1
+default elder/hair 1
+  rotate: true
+  xy: 1054, 17
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+default elder/hair 2
+  rotate: false
+  xy: 1035, 120
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+default elder/hair 3
+  rotate: false
+  xy: 932, 54
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+default elder/head
+  rotate: false
+  xy: 334, 591
+  size: 220, 182
+  orig: 220, 182
+  offset: 0, 0
+  index: -1
+default elder/leg B
+  rotate: true
+  xy: 473, 251
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+default elder/leg F
+  rotate: true
+  xy: 506, 480
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+default elder/mouth
+  rotate: true
+  xy: 827, 183
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+default elder/ring F
+  rotate: true
+  xy: 936, 2
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+default elder/ring F under
+  rotate: true
+  xy: 996, 15
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+default elder/stache B
+  rotate: false
+  xy: 1102, 545
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+default elder/stache F
+  rotate: false
+  xy: 709, 4
+  size: 162, 86
+  orig: 162, 86
+  offset: 0, 0
+  index: -1
+default elder/tentacle B
+  rotate: true
+  xy: 2, 28
+  size: 59, 201
+  orig: 59, 201
+  offset: 0, 0
+  index: -1
+default elder/tentacle F
+  rotate: true
+  xy: 227, 87
+  size: 50, 204
+  orig: 50, 204
+  offset: 0, 0
+  index: -1
+gray elder/antler B
+  rotate: true
+  xy: 642, 144
+  size: 100, 183
+  orig: 100, 183
+  offset: 0, 0
+  index: -1
+gray elder/antler F1
+  rotate: true
+  xy: 950, 380
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+gray elder/antler F2
+  rotate: true
+  xy: 1089, 383
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+gray elder/arm B
+  rotate: false
+  xy: 260, 371
+  size: 121, 218
+  orig: 121, 218
+  offset: 0, 0
+  index: -1
+gray elder/arm F
+  rotate: true
+  xy: 260, 255
+  size: 114, 211
+  orig: 114, 211
+  offset: 0, 0
+  index: -1
+gray elder/body
+  rotate: true
+  xy: 334, 775
+  size: 256, 373
+  orig: 256, 373
+  offset: 0, 0
+  index: -1
+gray elder/hair 1
+  rotate: false
+  xy: 1115, 71
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+gray elder/hair 2
+  rotate: false
+  xy: 1094, 120
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+gray elder/hair 3
+  rotate: false
+  xy: 993, 55
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+gray elder/head
+  rotate: false
+  xy: 556, 591
+  size: 220, 182
+  orig: 220, 182
+  offset: 0, 0
+  index: -1
+gray elder/leg B
+  rotate: true
+  xy: 440, 133
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+gray elder/leg F
+  rotate: true
+  xy: 728, 480
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+gray elder/mouth
+  rotate: false
+  xy: 873, 4
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+gray elder/stache B
+  rotate: false
+  xy: 1089, 462
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+gray elder/stache F
+  rotate: true
+  xy: 957, 216
+  size: 162, 86
+  orig: 162, 86
+  offset: 0, 0
+  index: -1
+gray elder/tentacle B
+  rotate: true
+  xy: 205, 26
+  size: 59, 201
+  orig: 59, 201
+  offset: 0, 0
+  index: -1
+gray elder/tentacle F
+  rotate: true
+  xy: 433, 81
+  size: 50, 204
+  orig: 50, 204
+  offset: 0, 0
+  index: -1
+lighter gray elder/antler B
+  rotate: false
+  xy: 1102, 628
+  size: 100, 183
+  orig: 100, 183
+  offset: 0, 0
+  index: -1
+lighter gray elder/antler F1
+  rotate: true
+  xy: 1045, 187
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+lighter gray elder/antler F2
+  rotate: false
+  xy: 956, 118
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+lighter gray elder/arm B
+  rotate: false
+  xy: 383, 371
+  size: 121, 218
+  orig: 121, 218
+  offset: 0, 0
+  index: -1
+lighter gray elder/arm F
+  rotate: true
+  xy: 227, 139
+  size: 114, 211
+  orig: 114, 211
+  offset: 0, 0
+  index: -1
+lighter gray elder/body
+  rotate: true
+  xy: 709, 775
+  size: 256, 373
+  orig: 256, 373
+  offset: 0, 0
+  index: -1
+lighter gray elder/hair 1
+  rotate: false
+  xy: 1155, 75
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+lighter gray elder/hair 2
+  rotate: false
+  xy: 873, 50
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+lighter gray elder/hair 3
+  rotate: false
+  xy: 1054, 57
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+lighter gray elder/head
+  rotate: false
+  xy: 778, 591
+  size: 220, 182
+  orig: 220, 182
+  offset: 0, 0
+  index: -1
+lighter gray elder/leg B
+  rotate: true
+  xy: 675, 246
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+lighter gray elder/leg F
+  rotate: true
+  xy: 506, 369
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+lighter gray elder/mouth
+  rotate: true
+  xy: 1153, 124
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+lighter gray elder/stache B
+  rotate: true
+  xy: 873, 117
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+lighter gray elder/stache F
+  rotate: false
+  xy: 1045, 292
+  size: 162, 86
+  orig: 162, 86
+  offset: 0, 0
+  index: -1
+lighter gray elder/tentacle B
+  rotate: true
+  xy: 408, 20
+  size: 59, 201
+  orig: 59, 201
+  offset: 0, 0
+  index: -1
+lighter gray elder/tentacle F
+  rotate: true
+  xy: 642, 92
+  size: 50, 204
+  orig: 50, 204
+  offset: 0, 0
+  index: -1
