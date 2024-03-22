@@ -1,0 +1,209 @@
+
+inna cut up.png
+size: 1143,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pupil B
+  rotate: false
+  xy: 948, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+arm B
+  rotate: false
+  xy: 1042, 36
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+arm F
+  rotate: true
+  xy: 656, 5
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 859, 25
+  size: 146, 127
+  orig: 146, 127
+  offset: 0, 0
+  index: -1
+ear B
+  rotate: false
+  xy: 648, 55
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1
+ear F
+  rotate: true
+  xy: 988, 101
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+eye skin F
+  rotate: true
+  xy: 617, 5
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+eyeball B
+  rotate: true
+  xy: 1105, 130
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+eyeball F
+  rotate: true
+  xy: 1105, 87
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+eyebrow B
+  rotate: false
+  xy: 730, 2
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+eyebrow F
+  rotate: false
+  xy: 906, 4
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+eyelid BB
+  rotate: true
+  xy: 1092, 42
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+eyelid BF
+  rotate: false
+  xy: 1090, 12
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+eyelid TB
+  rotate: false
+  xy: 859, 2
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+eyelid TF
+  rotate: false
+  xy: 1042, 9
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+eyeskin B
+  rotate: false
+  xy: 486, 7
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+forearm B
+  rotate: true
+  xy: 304, 4
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+forearm F
+  rotate: false
+  xy: 988, 19
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+hair B
+  rotate: false
+  xy: 730, 22
+  size: 127, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+hair F
+  rotate: true
+  xy: 496, 50
+  size: 121, 150
+  orig: 121, 150
+  offset: 0, 0
+  index: -1
+hair under B
+  rotate: true
+  xy: 151, 9
+  size: 162, 151
+  orig: 162, 151
+  offset: 0, 0
+  index: -1
+hair under F
+  rotate: true
+  xy: 2, 4
+  size: 167, 147
+  orig: 167, 147
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 304, 47
+  size: 190, 124
+  orig: 190, 124
+  offset: 0, 0
+  index: -1
+leg B
+  rotate: true
+  xy: 439, 3
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+leg F
+  rotate: true
+  xy: 383, 7
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 769, 8
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+pupil F
+  rotate: false
+  xy: 1116, 61
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+spike B
+  rotate: false
+  xy: 576, 5
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+spike F
+  rotate: false
+  xy: 533, 7
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
