@@ -1,0 +1,90 @@
+
+sunny_cut_up.png
+size: 1294,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm B
+  rotate: false
+  xy: 994, 36
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1
+Arm F
+  rotate: false
+  xy: 821, 36
+  size: 171, 129
+  orig: 171, 129
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 17
+  size: 471, 381
+  orig: 471, 381
+  offset: 0, 0
+  index: -1
+Close eyes
+  rotate: false
+  xy: 724, 4
+  size: 176, 30
+  orig: 176, 30
+  offset: 0, 0
+  index: -1
+Fin B
+  rotate: false
+  xy: 1090, 173
+  size: 202, 225
+  orig: 202, 225
+  offset: 0, 0
+  index: -1
+Fin F
+  rotate: false
+  xy: 821, 167
+  size: 267, 231
+  orig: 267, 231
+  offset: 0, 0
+  index: -1
+Foot B
+  rotate: true
+  xy: 1147, 90
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+Foot F
+  rotate: true
+  xy: 1147, 7
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 475, 76
+  size: 344, 322
+  orig: 344, 322
+  offset: 0, 0
+  index: -1
+closed mouth
+  rotate: false
+  xy: 724, 37
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+open eyes
+  rotate: false
+  xy: 475, 2
+  size: 176, 72
+  orig: 176, 72
+  offset: 0, 0
+  index: -1
+open mouth
+  rotate: false
+  xy: 653, 21
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
