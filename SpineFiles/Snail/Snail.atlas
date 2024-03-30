@@ -1,0 +1,90 @@
+
+Snail.png
+size: 1439,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyestalk B
+  rotate: true
+  xy: 524, 25
+  size: 114, 230
+  orig: 114, 230
+  offset: 0, 0
+  index: -1
+Eyestalk F
+  rotate: false
+  xy: 1288, 104
+  size: 90, 235
+  orig: 90, 235
+  offset: 0, 0
+  index: -1
+Shell F
+  rotate: true
+  xy: 308, 141
+  size: 634, 612
+  orig: 634, 612
+  offset: 0, 0
+  index: -1
+Shell Window
+  rotate: true
+  xy: 1105, 11
+  size: 328, 181
+  orig: 328, 181
+  offset: 0, 0
+  index: -1
+Shell Window w sam
+  rotate: true
+  xy: 922, 11
+  size: 328, 181
+  orig: 328, 181
+  offset: 0, 0
+  index: -1
+Snail Face
+  rotate: true
+  xy: 922, 341
+  size: 434, 515
+  orig: 434, 515
+  offset: 0, 0
+  index: -1
+Snail Shell B
+  rotate: true
+  xy: 308, 18
+  size: 121, 214
+  orig: 121, 214
+  offset: 0, 0
+  index: -1
+Snail body
+  rotate: true
+  xy: 2, 22
+  size: 753, 304
+  orig: 753, 304
+  offset: 0, 0
+  index: -1
+pupil F
+  rotate: true
+  xy: 1380, 297
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+pupil F close
+  rotate: false
+  xy: 1380, 223
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+pupilB
+  rotate: true
+  xy: 1380, 253
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+pupilB Close
+  rotate: false
+  xy: 2, 2
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
